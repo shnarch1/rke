@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/avi/Documents/rke":{"guestpath":"/home/avi/Documents/rke","hostpath":"/Users/avi/Documents/rke","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/avi/Documents/rke","disabled":false,"__vagrantfile":true}}}
